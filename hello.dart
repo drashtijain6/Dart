@@ -1,4 +1,4 @@
 void main() {
-  print("Hello, Dart! Welcome to Programming. Jayesh is an idiot");
+  print("Hello, Dart! Welcome to Programming.");
 }
 // this is first dart program
